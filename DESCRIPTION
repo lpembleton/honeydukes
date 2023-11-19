@@ -1,0 +1,13 @@
+Package: honeydukes
+Type: Package
+Title: A collection of 'sweet' 'magical' tools
+Version: 0.1.0
+Author: LW Pembleton
+Maintainer: LW Pembleton <lwpembleton@gmail.com>
+Description: A growing collection of 'sweet' 'magical' tools. Many of the tools may be useful in development environment situations. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    emphatic
+RoxygenNote: 7.2.2
