@@ -10,4 +10,6 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     emphatic
+Remotes:
+    coolbutuseless/emphatic
 RoxygenNote: 7.2.2
