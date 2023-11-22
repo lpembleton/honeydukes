@@ -1,10 +1,10 @@
 # honeydukes
-A collection of 'sweet' 🍭 'magical' 🪄 tools
+A collection of 'sweet' 🍭 'magical' 🪄 R tools
 
 <img src="man/figures/honeydukes_green.png" width="200"/>
 
-A growing collection of 'sweet' 🍭 'magical' 🪄 tools. Many of the tools have been developed to assist in development environment situations. 
-It’s pretty much my miscellaneous package 📦 but with a cool HP 🧙️ inspired name👍
+A growing collection of 'sweet' 🍭 'magical' 🪄 R tools. Many of the tools have been developed to assist in development environment situations. 
+It’s pretty much my miscellaneous R package 📦 but with a cool HP 🧙️ inspired name👍
 
 ## Functions
 
