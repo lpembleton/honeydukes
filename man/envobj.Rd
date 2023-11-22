@@ -4,12 +4,10 @@
 \alias{envobj}
 \title{Print information about the objects in the current environment}
 \usage{
-envobj(table = FALSE, sort = FALSE, colour = TRUE)
+envobj(sort = TRUE, colour = TRUE)
 }
 \arguments{
-\item{table}{logical, whether to print the object details formatted as a table or as a list to the screen (default: FALSE).}
-
-\item{sort}{logical, if printing results in a formatted table should it be sorted by object type (default: FALSE)}
+\item{sort}{logical, if printing results in a formatted table should it be sorted by object type (default: TRUE)}
 
 \item{colour}{logical, should the results be printed as a colour coded table based on object type (default: TRUE)}
 }
